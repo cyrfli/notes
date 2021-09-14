@@ -7,6 +7,10 @@
 - The player has to survive as long as possible.
 - They have to collect as much money as they can and store it in the bank.
 
+## A game for play.date
+- The game is designed for play.date and tries to be as simple as possible.
+- Play.date features a crank that can be used in game: exit doors and chests can be opened with it.
+
 ## The maze
 - Each level in the game is a maze.
 - First levels are little maze but the size is increasing after each level.
@@ -32,8 +36,11 @@
 
 ## Items
 
+### Chests
+Chests can be found in the maze and can be opened. Some are locked and need a key. Some are not but can be trapped. 
+
 ### Weapons
-You can find a variety of weapons in the game.
+The player can find variety of weapons in the game.
 
 ### Survival
 - Food
